@@ -1,4 +1,4 @@
-#m3u playlist generator#
+# m3u playlist generator
 
 This is a simple script that creates an .m3u playlist from a folder of .mp3 files.
 
